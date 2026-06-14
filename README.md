@@ -95,7 +95,7 @@ while (!success)
 ☕ Converting Coffee into Code
 
 ---
-## 🌐 Let's Connect
+## 🌐 Lets Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinav-garg-4b970b36a/" target="blank">
